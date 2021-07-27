@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerPractice2021Template", "SummerPractice2021Template\SummerPractice2021Template.csproj", "{4E940F78-0900-4D16-9340-5969762C66FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E940F78-0900-4D16-9340-5969762C66FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E940F78-0900-4D16-9340-5969762C66FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E940F78-0900-4D16-9340-5969762C66FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E940F78-0900-4D16-9340-5969762C66FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4995F36-AD02-4B5D-96CC-139B934817C7}
+	EndGlobalSection
+EndGlobal
